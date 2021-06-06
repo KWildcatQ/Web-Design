@@ -1,0 +1,47 @@
+
+/* Class */
+.col-md-6 {
+  font-size: 15px;
+  font-weight: bold;
+  color: #4aaaa5;
+}
+
+h1 {
+  /* Positioning */
+  text-align: center; 
+  margin-bottom: 33px;
+  font-family: Georgia, Times, "Times New Roman", serif;
+
+  /* Typography */
+  font-size: 32px;
+  font-weight: bold;
+  color: #4aaaa5;
+}
+
+h4 {
+  /* Positioning */
+  margin-bottom: 15px;
+  font-family: Georgia, Times, "Times New Roman", serif;
+
+  /* Typography */
+  font-size: 14px;
+  line-height: 2;
+  font-weight: bold;
+  color: #4aaaa5; 
+}
+
+p {
+  /* Positioning */
+  margin-bottom: 15px;
+  font-family: Georgia, Times, "Times New Roman", serif;
+
+  /* Typography */
+  font-size: 14px;
+  font-weight: bold;
+  color: #4aaaa5; 
+}
+
+img {
+  box-shadow: 10px 10px 5px black;
+  max-width: 50%;
+}
